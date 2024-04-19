@@ -7,11 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1P8md1v8fHwYxlnHZo8YPZn0Z-6Sudmeu
 """
 
-!pip install streamlit
+"""!pip install streamlit
 !pip install python-docx
 !pip install openpyxl
 !pip install PyPDF2
 !pip install langchain
+"""
 
 import os
 import streamlit as st
