@@ -1,6 +1,10 @@
 langchain
 langchain_community
+pandas
 pandasai
 ollama
 streamlit
+streamlit-extras
+htbuilder
 openai
+matplotlib
